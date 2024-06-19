@@ -22,6 +22,12 @@ export default defineConfig({
           { text: '什么是BHYG', link: '/guide/what-is-bhyg' },
           { text: '快速开始', link: '/guide/quick-started' }
         ]
+      },
+      {
+        text: '附录',
+        items: [
+          { text: '其他项目', link: '/other-projects' }
+        ]
       }
     ],
 

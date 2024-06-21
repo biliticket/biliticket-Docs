@@ -18,8 +18,4 @@
 
 ### bilibili-ticket-python
 
-::: warning
-当前版本运行有一定门槛，谨慎选择
-:::
-
-[bilibili-ticket-python](https://github.com/bilibili-ticket/bilibili-ticket-python)
+[bilibili-ticket/bilibili-ticket-python](https://github.com/bilibili-ticket/bilibili-ticket-python)

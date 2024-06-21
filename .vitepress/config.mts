@@ -20,7 +20,15 @@ export default defineConfig({
         text: '简介',
         items: [
           { text: '什么是BHYG', link: '/guide/what-is-bhyg' },
-          { text: '快速开始', link: '/guide/quick-started' }
+          { text: '快速开始', link: '/guide/quick-started' },
+          { text: '常见问题', link: '/guide/faq' }
+        ]
+      },
+      {
+        text: '拓展阅读',
+        items: [
+          { text: '安全性和隐私', link: '/extend/secure_and_privacy' },
+          { text: '代理', link: '/extend/proxy' }
         ]
       },
       {

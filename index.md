@@ -3,16 +3,22 @@
 layout: home
 
 hero:
-  name: "BHYG"
+  name: "biliticket"
   text: "用户使用文档"
   tagline: FNMDP NMSL 放那么多票 你卖谁了
   actions:
     - theme: brand
-      text: 下载最新版本
-      link: https://github.com/ZianTT/BHYG/releases/latest
+      text: 下载BHYG
+      link: https://github.com/biliticket/BHYG/releases/latest
+    - theme: brand
+      text: 下载biliTickerBuy
+      link: https://github.com/mikumifa/biliTickerBuy/releases/latest
+    - theme: brand
+      text: 下载bilibili-ticket-python
+      link: https://github.com/bilibili-ticket/bilibili-ticket-python/releases/latest
     - theme: alt
       text: 快速开始
-      link: /guide/quick-started
+      link: /guide/what-is-this
 
 features:
   - title: 配置简单

@@ -1,2 +1,2 @@
-# BHYG-Docs
-Documents of BHYG
+# biliticket-Docs
+Documents about biliticket related projects

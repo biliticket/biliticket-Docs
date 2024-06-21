@@ -19,6 +19,9 @@ hero:
     - theme: alt
       text: 快速开始
       link: /guide/what-is-this
+  image:
+    src: /logo.png
+    alt: biliticket
 
 features:
   - title: 配置简单

@@ -48,6 +48,16 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/biliticket/biliticket-Docs' }
-    ]
-  }
+    ],
+
+    search: {
+      provider: 'local'
+    },
+
+    editLink: {
+      pattern: 'https://github.com/biliticket/biliticket-Docs/edit/main/:path'
+    }
+  },
+
+  lastUpdated: true,
 })

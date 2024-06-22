@@ -59,7 +59,9 @@ export default defineConfig({
     }
   },
 
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
-  
+  head: [['link', { rel: 'icon', href: '/favicon.svg' }]],
+
+  lang: 'zh-CN',
+
   lastUpdated: true,
 })

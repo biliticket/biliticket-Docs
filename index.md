@@ -32,3 +32,24 @@ features:
     details: 在已经启动过一次的情况下，可以在第二次启动时快速复用上次的信息
 ---
 
+<style>
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #ff5f8c 30%, #FFB4C8);
+
+  --vp-home-hero-image-background-image: #ff5f8c;
+  --vp-home-hero-image-filter: blur(44px);
+}
+
+@media (min-width: 640px) {
+  :root {
+    --vp-home-hero-image-filter: blur(56px);
+  }
+}
+
+@media (min-width: 960px) {
+  :root {
+    --vp-home-hero-image-filter: blur(68px);
+  }
+}
+</style>

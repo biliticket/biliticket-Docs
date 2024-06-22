@@ -20,7 +20,7 @@ hero:
       text: 快速开始
       link: /guide/what-is-this
   image:
-    src: /logo.png
+    src: ./logo.png
     alt: biliticket
 
 features:

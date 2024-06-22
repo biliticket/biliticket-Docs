@@ -14,7 +14,7 @@ hero:
       text: 下载biliTickerBuy
       link: https://github.com/mikumifa/biliTickerBuy/releases/latest
     - theme: brand
-      text: 下载bilibili-ticket-python
+      text: 下载bilibili-ticket-python (Pre-release)
       link: https://github.com/bilibili-ticket/bilibili-ticket-python/releases/latest
     - theme: alt
       text: 快速开始

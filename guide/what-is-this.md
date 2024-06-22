@@ -27,21 +27,22 @@
 [biliticket/BHYG](https://github.com/biliticket/BHYG)
 
 ### biliTickerBuy
+部分由WebUI提供。
+
+已接入验证码自动解决。
+
+已接入手动完成验证码，RROCR付费功能。
+
+[mikumifa/biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
+
+### bilibili-ticket-python <Badge type="warning" text="Pre-release" />
+
+**仍在预发布状态**
 
 命令行界面。
 
 已接入验证码自动解决。
 
 提供提醒等功能。
-
-[mikumifa/biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
-
-### bilibili-ticket-python
-
-部分由WebUI提供。
-
-已接入验证码自动解决。
-
-已接入手动完成验证码，RROCR付费功能。
 
 [bilibili-ticket/bilibili-ticket-python](https://github.com/bilibili-ticket/bilibili-ticket-python)

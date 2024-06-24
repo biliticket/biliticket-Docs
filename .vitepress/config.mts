@@ -34,6 +34,8 @@ export default defineConfig({
         items: [
           { text: '什么是BHYG', link: '/bhyg/what-is-bhyg' },
           { text: '快速开始', link: '/bhyg/quick-started' },
+          { text: '最佳实践', link: '/bhyg/best-practice'},
+          { text: '进阶使用', link: '/bhyg/advanced'},
           { text: '安全性和隐私', link: '/bhyg/secure_and_privacy' },
           { text: '代理', link: '/bhyg/proxy' },
         ]

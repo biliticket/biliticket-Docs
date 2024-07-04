@@ -43,7 +43,9 @@ export default defineConfig({
       {
         text: '附录',
         items: [
-          { text: '其他项目', link: '/other-projects' }
+          { text: '其他项目', link: '/other-projects' },
+          { text: 'BHYG 隐私政策', link: '/bhyg/privacy-policy' },
+          { text: 'BHYG 最终用户许可协议（EULA）', link: '/bhyg/eula' }
         ]
       }
     ],
